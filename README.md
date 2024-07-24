@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jaydatta Patwe
 
-<!--
-**jaypatwe/jaypatwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm **Jaydatta Patwe**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Computer Engineer**
+- **Freelance Content Creator**
+- **Designer**
+
+I'm a tech enthusiast who loves to dive into discussions about technology, content creation, music, and much more.
+
+## Contact Me
+
+📧 **Email**: [jaydattpatwe@gmail.com](mailto:jaydattpatwe@gmail.com)
+
+## Connect with Me
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/jaydatta-patwe-4ba9aa1b2/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypatwe)](https://github.com/anuraghazra/github-readme-stats)
